@@ -10,7 +10,7 @@
 ### 👩‍💻 I'm also working on 
 - <a href="https://grdnr13.tistory.com/" title="https://grdnr13.tistory.com/">my blog</a>
 - Extracurricular activities :
-  - EDOC (club officer)
+  - EDOC (club president)
 <!--- - projects : --->
 
 <!---💞️ I’m looking to collaborate on ... --->
