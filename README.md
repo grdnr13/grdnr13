@@ -5,7 +5,6 @@
 ### 🌱 I’m currently learning 
  - Algorithms & Data Structures
  - Python for Data Science
- - Java Programming
 
 ### 👩‍💻 I'm also working on 
 - <a href="https://grdnr13.tistory.com/" title="https://grdnr13.tistory.com/">my blog</a>
