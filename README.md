@@ -9,7 +9,7 @@
 ### 👩‍💻 I'm also working on 
 - <a href="https://grdnr13.tistory.com/" title="https://grdnr13.tistory.com/">my blog</a>
 - Extracurricular activities :
-  - club president of EDOC ( Agorithm study club in Ewha Womans University )
+  - club president of EDOC ( Algorithm study club in Ewha Womans University )
 <!--- - projects : --->
 
 <!---💞️ I’m looking to collaborate on ... --->
