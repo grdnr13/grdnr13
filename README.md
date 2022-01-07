@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @grdnr13
 
-### 👀 I’m interested in Data Science
+### 👀 I’m interested in Computer Vision
 
 ### 🌱 I’m currently learning 
  - Algorithms & Data Structures
@@ -9,7 +9,7 @@
 ### 👩‍💻 I'm also working on 
 - <a href="https://grdnr13.tistory.com/" title="https://grdnr13.tistory.com/">my blog</a>
 - Extracurricular activities :
-  - club president of EDOC ( Algorithm study club in Ewha Womans University )
+  - club officer of EDOC ( Algorithm study club in Ewha Womans University )
 <!--- - projects : --->
 
 <!---💞️ I’m looking to collaborate on ... --->
