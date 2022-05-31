@@ -2,7 +2,7 @@
 
 ### 👀 I’m interested in Computer Vision
 
-### 🌱 I’m currently learning 
+### 🌱 I’m currently learning
  - Computer Vision
  - Machine Learning
 
@@ -15,3 +15,6 @@
 <!---💞️ I’m looking to collaborate on ... --->
 
 #### 📫 How to reach me : grdnr17@gmail.com
+
+### Linkedin
+<a href="https://www.linkedin.com/in/jungwon-kim-45468a1b7/" title="https://www.linkedin.com/in/jungwon-kim-45468a1b7/">linkedin</a>
